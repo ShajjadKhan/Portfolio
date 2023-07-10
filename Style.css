@@ -2,8 +2,11 @@
 /* shared style */
 
 button{
-    background-color:  #4d79ff;
+    background-color:  #2657e9;
     border: none;
+    border-radius: 15px;
+    margin-left: 10px;
+    height: 40px;
 }
 
 /* shared style */
@@ -27,6 +30,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: o 200px;
 
 }
 
@@ -63,7 +67,22 @@ nav a{
     color: white;
 }
 
+.header{
 
+   margin-top: 0%;
+}
+
+.name{font-size: x-large;}
+
+.pera{
+    width: 40%;
+}
+
+.photo-one{
+
+ height: 500px;
+
+}
 
 
 
