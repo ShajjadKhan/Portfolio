@@ -38,10 +38,12 @@ color: white;
     display: flex;
     align-items: center;
 }
-.site-photo{ width: 500px;
-box-shadow: 10px; 
-margin: ;
-bottom: 0;
-right: 0;
-margin: 0;
+.site-photo{ width: 500px;}
+
+.qw
+{width: 35px;}
+.social{
+    margin-top: 20px;
 }
+p{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
