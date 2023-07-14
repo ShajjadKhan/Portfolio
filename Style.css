@@ -16,6 +16,9 @@ font-family: serif;
 }
 
 
+header{ 
+background-image: url(photo/trackiationless.png);
+}
 nav{
     display: flex;
     justify-content: space-between;
@@ -55,3 +58,11 @@ color: white;
 }
 p{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
 
+.about-me{
+
+padding: 150px;
+
+}
+
+.about{text-align: center;}
+.about-description{text-align: center;}
