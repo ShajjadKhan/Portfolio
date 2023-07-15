@@ -66,3 +66,14 @@ padding: 150px;
 
 .about{text-align: center;}
 .about-description{text-align: center;}
+
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.about-info{
+text-align: center;
+
+}
