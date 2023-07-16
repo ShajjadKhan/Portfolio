@@ -9,8 +9,7 @@ hr{color: rgb(84, 234, 226);}
 
 
 }
-html{
-    }
+
 
 p{
 
@@ -118,3 +117,16 @@ text-align: center;
 
 }
 
+
+/* resume section */
+
+.resume-column-title{
+color: #474747;
+
+font-size: 30px;
+
+font-weight: 700;
+
+
+
+}
