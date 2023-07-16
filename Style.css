@@ -1,13 +1,16 @@
  
-
+hr{color: rgb(84, 234, 226);}
 *{
     background-color: black;
     color:white
 
+
+
+
+
 }
 html{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
+    }
 
 p{
 
@@ -77,3 +80,19 @@ padding: 150px;
 text-align: center;
 
 }
+
+.wido{
+    
+    padding: 150px;
+
+}
+.wido-title{
+
+    text-align: center;
+}
+.wido-description{
+    text-align: center;
+    padding: 20px 150px;
+
+}
+
