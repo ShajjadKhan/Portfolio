@@ -167,7 +167,17 @@ color: #d0c8c8;
     margin: 30px;
 }
 
+footer{
+    display: flex;
+    margin: 20px;
+    /* align-items: center; */
+}
 
+
+
+.footer-section-title{text-align: center;}
+.footer-section-description{text-align: center;}
+.footer-social-links{text-align: center;}
 
 
 
