@@ -21,6 +21,12 @@ font-family: serif;
 header{ 
 background-image: url(photo/trackiationless.png);
 }
+
+
+.banner-greeting, .banner-title, .banner-description{text-align: center;}
+.banner-btn{text-align: center;}
+.social{text-align: center;}
+
 nav{
     display: flex;
     justify-content: space-between;
