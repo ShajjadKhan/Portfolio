@@ -120,6 +120,14 @@ text-align: center;
 
 /* resume section */
 
+.resume-title{
+    text-align: center
+    ;
+font-size: 35px;
+
+}
+
+
 .resume-column-title{
 color: #474747;
 
@@ -127,6 +135,43 @@ font-size: 30px;
 
 font-weight: 700;
 
+}
+
+.resume-container{
+
+    display: flex;
+    gap: 40px;
+
+}
+
+.resume-item-title{
+    color: #474747;
+    font-size: 25px;
+font-weight: 700;
+margin: 10px;
 
 
 }
+
+
+.resume-item-institute, .resume-item-description{
+
+color: #d0c8c8;
+
+}
+
+.resume-container hr{margin: 30px 1px;}
+
+.cv-donload{
+    text-align: center;
+    margin: 30px;
+}
+
+
+
+
+
+
+
+
+
