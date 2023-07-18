@@ -220,8 +220,11 @@
  .footer-social-links {
      text-align: center;
  }
+ .footer-column{margin: 10px;}
 
-.form input{}
+.form input{
+    margin: 10px;
+}
 
 
 
